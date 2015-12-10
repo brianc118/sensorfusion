@@ -1,4 +1,6 @@
-# Fast Madwick/Mahony Sensor fusion library for *Arduino 1.0.x.*
+# Fast Madwick/Mahony Sensor fusion library
+
+Works with any C language. Easily ported to mbed, Arduino, etc. just by adding/removing "math.h".
 
 If you have any questions, please do not hesitate to contact me.
 
